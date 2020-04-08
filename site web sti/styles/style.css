@@ -1,9 +1,57 @@
 h1
 {
 	text-align: center;
+	border: 3px solid black;
+	background-color: white;
+	font-family: arial;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.adress
+h2
 {
-	color: blue;
+	text-align: center;
+	border: 3px solid black;
+	background-color: white;
+	font-family: arial;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body
+{
+	background-image: url('../images/background.png');
+	float: left;
+	margin: 0 7.5%;
+	width: 85%;
+}
+
+nav
+{
+	float: left;
+	font-family: Verdana;
+	font-size: 20px;
+	margin: 0 1.5%;
+	width: 15%;
+	border: 3px solid black;
+	background-color: white;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pres1
+{
+	float: right;
+	margin: 0 1.5%;
+	border-radius: 8px;
+	width: 30%;
+  	background-color: white;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text
+{
+	margin: 1.5%;
+	font-family: Verdana;
+	font-size: 16px;
+  	/*background-color: white;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  	width: 70%;
 }
